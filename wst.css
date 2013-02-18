@@ -1,0 +1,23 @@
+body {
+	background-image: none;
+}
+
+.centered {
+	text-align: center;
+}
+
+#chrome {
+	margin-bottom: 10px;
+}
+
+h1, h2 {
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+.span4 p {
+	font-size: 12pt;
+}
+
+p, li {
+	font-family: 'PT Sans', sans-serif;
+}
