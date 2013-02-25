@@ -21,3 +21,33 @@ h1, h2 {
 p, li {
 	font-family: 'PT Sans', sans-serif;
 }
+
+
+/* Launchrock */
+
+.dark-b .site {
+	background: none;
+}
+
+.launchrock {
+	width: 410px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.launchrock h3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.lrdiscoverwidget .inviteform .submit {
+	background: #0088cc;
+}
+
+.lrdiscoverwidget .site-powered-by {
+	padding: 0;
+}
+
+.lrdiscoverwidget .site-tagline {
+	display: none;
+}
