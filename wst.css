@@ -16,7 +16,7 @@ body {
 
 h1, h2 {
 	font-family: 'PT Sans Caption', sans-serif;
-}
+}	
 
 .span4 p {
 	font-size: 12pt;
@@ -24,6 +24,10 @@ h1, h2 {
 
 p, li {
 	font-family: 'PT Sans', sans-serif;
+}
+
+.story {
+	font-size: 12pt;
 }
 
 .teamimg {
