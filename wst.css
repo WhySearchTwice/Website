@@ -10,6 +10,10 @@ body {
 	margin-bottom: 10px;
 }
 
+[class*="span"] {
+	margin-left: 0px;
+}
+
 h1, h2 {
 	font-family: 'PT Sans Caption', sans-serif;
 }
@@ -20,6 +24,13 @@ h1, h2 {
 
 p, li {
 	font-family: 'PT Sans', sans-serif;
+}
+
+.teamimg {
+	border-radius: 10px;
+	border: 2px solid #D3D3D3;
+	width: 90%;
+	max-width: 400px;
 }
 
 
