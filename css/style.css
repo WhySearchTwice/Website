@@ -67,3 +67,7 @@ p, li {
 .lrdiscoverwidget .site-tagline {
 	display: none;
 }
+
+.btn-large i {
+    line-height: 22px !important;
+}
