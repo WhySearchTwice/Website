@@ -1,0 +1,69 @@
+body {
+	background-image: none;
+    padding-top: 40px;
+}
+
+.centered {
+	text-align: center;
+}
+
+#chrome {
+	margin-bottom: 10px;
+}
+
+[class*="span"] {
+	margin-left: 0px;
+}
+
+h1, h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.span4 p {
+	font-size: 12pt;
+}
+
+p, li {
+	font-family: 'Roboto', sans-serif;
+}
+
+.story {
+	font-size: 12pt;
+}
+
+.teamimg {
+	border-radius: 10px;
+	border: 2px solid #D3D3D3;
+	width: 90%;
+	max-width: 400px;
+}
+
+
+/* Launchrock */
+
+.dark-b .site {
+	background: none;
+}
+
+.launchrock {
+	width: 410px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.launchrock h3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.lrdiscoverwidget .inviteform .submit {
+	background: #0088cc;
+}
+
+.lrdiscoverwidget .site-powered-by {
+	padding: 0;
+}
+
+.lrdiscoverwidget .site-tagline {
+	display: none;
+}
