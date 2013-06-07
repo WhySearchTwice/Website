@@ -66,6 +66,15 @@ p, li {
     max-width: 400px;
 }
 
+.worksimg {
+    border-radius: 3px;
+    border: 1px solid #aaa;
+    margin-top: 20px;
+    width: 90%;
+    max-height: 150px;
+    max-width: 350px;
+}
+
 .marketing p {
     text-align: left;
 }
