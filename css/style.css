@@ -58,21 +58,19 @@ p, li {
     font-size: 12pt;
 }
 
-.teamimg {
+.img {
     border-radius: 3px;
     border: 1px solid #aaa;
+}
+
+.teamimg {
     margin-top: 20px;
     width: 90%;
     max-width: 400px;
 }
 
 .worksimg {
-    border-radius: 3px;
-    border: 1px solid #aaa;
     margin-top: 20px;
-    width: 90%;
-    max-height: 150px;
-    max-width: 350px;
 }
 
 .marketing p {
